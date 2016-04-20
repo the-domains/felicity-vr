@@ -1,0 +1,28 @@
+name: felicity-VR
+favicon: null
+layout_spectrum: 0.8353852725122124
+typography_spectrum: 0.9011921649798751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5788242723792791
+  lightness: 0.22190380631946027
+  saturation: 0.8956394752021879
+  rhythmicContrast: 0.2678349828347564
+purpose: []
